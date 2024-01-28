@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/maintenance/static/css/main.d1df1ee5.css",
+    "main.js": "/maintenance/static/js/main.ee7bd4ac.js",
+    "static/js/787.f40a2750.chunk.js": "/maintenance/static/js/787.f40a2750.chunk.js",
+    "static/media/app manager.png": "/maintenance/static/media/app manager.aab8ff35da88c4bf74e5.png",
+    "static/media/jumbotron.svg": "/maintenance/static/media/jumbotron.bfb3b96c9834d9bef4f4859f4caefab9.svg",
+    "static/media/clip.png": "/maintenance/static/media/clip.598cf37bf606f83fca2a.png",
+    "static/media/clip left.png": "/maintenance/static/media/clip left.b05ef96cff91ec1ac04a.png",
+    "static/media/redux.cjs": "/maintenance/static/media/redux.7edfc461ab353f1712ab.cjs",
+    "static/media/extra-small-gear.svg": "/maintenance/static/media/extra-small-gear.ac1e368b75ea80e6285d2a6c3ee2c94c.svg",
+    "static/media/big-gear.svg": "/maintenance/static/media/big-gear.d04dbec6d2695d2a7a3ae04918562a7e.svg",
+    "static/media/middle-gear.svg": "/maintenance/static/media/middle-gear.0a993df9c8fb8a6bd56ebdc595e55bae.svg",
+    "static/media/small-gear.svg": "/maintenance/static/media/small-gear.3a289618fa81aefc901582697ba3771a.svg",
+    "static/media/logo.svg": "/maintenance/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/maintenance/index.html",
+    "static/media/blue-back.svg": "/maintenance/static/media/blue-back.96f160572f6863ac0f7e4fadc08a6678.svg",
+    "main.d1df1ee5.css.map": "/maintenance/static/css/main.d1df1ee5.css.map",
+    "main.ee7bd4ac.js.map": "/maintenance/static/js/main.ee7bd4ac.js.map",
+    "787.f40a2750.chunk.js.map": "/maintenance/static/js/787.f40a2750.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1df1ee5.css",
+    "static/js/main.ee7bd4ac.js"
+  ]
+}
